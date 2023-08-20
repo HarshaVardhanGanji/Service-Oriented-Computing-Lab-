@@ -1,0 +1,19 @@
+<Employee>
+    <emp name="Harsha">
+        <roll value="AP20110010056" />
+        <phone value="8500543242"/>
+        <dept value="CSE"/>
+    </emp>
+
+    <emp name="Vignesh">
+        <roll value="AP20110010058" />
+        <phone value="9848691234"/>
+        <dept value="CSE"/>
+    </emp>
+
+    <emp name="Vardhan">
+        <roll value="AP20110010045" />
+        <phone value="9876543210"/>
+        <dept value="CSE"/>
+    </emp>        
+</Employee>
